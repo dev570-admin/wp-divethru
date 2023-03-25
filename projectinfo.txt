@@ -1,1 +1,5 @@
 Git comannd 
+1 $ git add .
+2 git commit -m "write sth"
+3 $ git push -u
+
